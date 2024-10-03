@@ -1,6 +1,6 @@
-# M^0 Core
+# X^0 Core
 
-Integration tests and scripts for M^0 protocol and periphery.
+Integration tests and scripts for X^0 protocol and periphery.
 
 ## Deploy
 
